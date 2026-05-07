@@ -665,13 +665,13 @@
 .section.started .started-content .h-subtitle,
 .section.started .started-content .typed-subtitle,
 .section.started .started-content .typed-bread {
-	margin-top: -45px;
+	 
 	position: absolute;
-	top: 50%;
+	top: 40%;
 	left: 0;
-	width: 100%;
+	width:90%;
 	display: block;
-	font-size: 80px;
+	font-size:32px;margin-left: 30px;
 	line-height: 90px;
 	font-weight: 500;
 	color: #FFF;
